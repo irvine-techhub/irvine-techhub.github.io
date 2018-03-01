@@ -1,18 +1,55 @@
+# # site settings
+# title: Forty
+# subtitle: by HTML5 UP
+# email: youremailaddress@gmail.com
+# description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+# #baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+# #baseurl: "/" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site
+# author:
+# street_address: 1234 Somewhere Road
+# city: Nashville
+# state: TN
+# zip_code: 55555
+# country: United States of America
+# phone: (716) 555-5555
+
+# # homepage tiles
+# tiles-source: posts # accepts "posts" or "pages"
+# tiles-count: 6
+
+# # social settings
+# 500px_url:
+# facebook_url:
+# github_url:
+# gitlab_url: https://gitlab.com/u/andrewbanchich
+# googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+# instagram_url: https://instagram.com
+# linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+# pinterest_url:
+# slack_url:
+# twitter_url: https://twitter.com/andrewbanchich
+
+# # build settings
+# markdown: kramdown
+
+# sass:
+#   style: compressed
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-#baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-#baseurl: "/" # the subpath of your site, e.g. /blog
+title: Irvine Tech Hub
+subtitle: Ray Gallagher
+email: 
+description: Providing the tech community and other communities in Silicon Valley an affordable place to learn, collaborate and innovate
+so that anyone from any circumstance and background with an idea can build their dream.
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: Ray Gallagher
+street_address: 1691 Kettering St, Irvine, CA 92614, USA
+city: Irvine
+state: California
+zip_code: 92614
+country: The United States of America
+phone: +1 949-381-1570
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -21,14 +58,14 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+github_url: https://github.com/
+gitlab_url: https://gitlab.com/
+googleplus_url: https://plus.google.com/
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/
 
 # build settings
 markdown: kramdown
